@@ -1,1 +1,2 @@
 created a text file - text1.txt 
+i love to code in langchain
